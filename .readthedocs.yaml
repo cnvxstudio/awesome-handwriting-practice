@@ -7,8 +7,10 @@
     },
     "commands": [
       "python -m pip install mkdocs==1.6.1",
-      "python -c 'from pathlib import Path; import json,shutil; Path(\"docs\").mkdir(exist_ok=True); shutil.copyfile(\"README.md\",\"docs/index.md\"); shutil.copyfile(\"browser-pdf-worksheet-architecture.md\",\"docs/architecture.md\"); Path(\"mkdocs.yml\").write_text('\"'\"'{\"site_name\": \"Handwriting Practice Activities and Browser PDF Notes\", \"site_description\": \"Practical worksheet planning, printing checks and a technical note on browser-generated PDF worksheets.\", \"repo_url\": \"https://github.com/cnvxstudio/awesome-handwriting-practice\", \"nav\": [{\"Activity guide\": \"index.md\"}, {\"Browser PDF architecture\": \"architecture.md\"}]}'\"'\"', encoding=\"utf-8\")'",
-      "mkdocs build --site-dir \"$READTHEDOCS_OUTPUT/html\""
+      "mkdir -p docs",
+      "cp README.md docs/index.md",
+      "cp browser-pdf-worksheet-architecture.md docs/architecture.md",
+      "mkdocs build --site-dir $READTHEDOCS_OUTPUT/html"
     ]
   }
 }

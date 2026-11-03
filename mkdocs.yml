@@ -1,0 +1,13 @@
+{
+  "site_name": "Handwriting Practice Activities and Browser PDF Notes",
+  "site_description": "Practical worksheet planning, printing checks and a technical note on browser-generated PDF worksheets.",
+  "repo_url": "https://github.com/cnvxstudio/awesome-handwriting-practice",
+  "nav": [
+    {
+      "Activity guide": "index.md"
+    },
+    {
+      "Browser PDF architecture": "architecture.md"
+    }
+  ]
+}
