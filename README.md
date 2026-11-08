@@ -14,6 +14,7 @@ This list groups resources by the job they help with. It is not a ranking or a c
 
 ## Worksheet makers and printable collections
 
+- [Cursive Generation Practice Sheet Generator](https://cursive-generation.com/practice-sheet) — A free font-based tracing-sheet maker for alphabet or custom-word practice, with horizontal guidelines and PNG/PDF downloads. No separate blank writing rows or verified stroke diagrams; the publisher also sells fonts and workbooks.
 - [CreatePrintables: Name Tracing Practice](https://www.createprintables.com/name-tracing-worksheet-practice/) — A name-focused printable for preparing a familiar first-name activity.
 - [CreatePrintables: Word Tracing Practice](https://www.createprintables.com/word-tracing-practice-worksheet/) — A word-list format for supplying your own short text.
 - [HandwritingWorksheets.com](https://handwritingworksheets.com/) — A worksheet maker with separate print, D'Nealian and cursive routes, plus letter-size and color settings.
